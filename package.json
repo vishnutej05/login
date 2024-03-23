@@ -18,7 +18,10 @@
     "dotenv": "^16.4.5",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
+<<<<<<< HEAD
     "moment-timezone": "^0.5.45",
+=======
+>>>>>>> origin/main
     "mongoose": "^8.2.0",
     "nodemailer": "^6.9.10",
     "nodemon": "^3.1.0"
